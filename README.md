@@ -1,2 +1,2 @@
 # RealityStone_-Gabriel_Roberto-_Compass
-This repository is intended for activities related to sprint 4 of the Test Automation with Ruby scholarship program at Compass UOL.
+Esse repositório foi feito para armazenar atividades relacionadas a sprint 4 do Programa de Bolsas de Automação de Testes com Ruby da empresa Compass UOL.
