@@ -1,0 +1,6 @@
+- Foi criado na década de 90 por Yukihiro “Matz” Matsumoto.
+- Foi lançado ao público em 1995.
+- É uma linguagem orientada a objetos.
+- Possui tipagem dinâmica forte.
+- Ela é interpretada.
+- A expansão do Ruby está ligada ao Ruby on Rails.
