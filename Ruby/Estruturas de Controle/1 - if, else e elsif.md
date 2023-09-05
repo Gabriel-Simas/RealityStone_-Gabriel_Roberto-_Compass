@@ -1,3 +1,5 @@
+## 1) if, else e elsif
+
 As estruturas de controle condicional `if`, `else` e `elsif` são fundamentais para a lógica de programação. Elas permitem que você tome decisões no seu código, executando diferentes blocos de código com base em condições específicas. Aqui está como você pode usá-las em Ruby:
 
 1. **if**:
