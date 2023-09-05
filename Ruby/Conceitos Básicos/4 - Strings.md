@@ -1,3 +1,5 @@
+## 4) Strings
+
 Em Ruby, as strings são sequências de caracteres, como texto. Elas são usadas para representar palavras, frases, ou qualquer tipo de texto. As strings são uma parte fundamental da programação, pois muitos programas interagem com dados em formato de texto. Aqui estão alguns conceitos e operações básicas relacionadas a strings em Ruby:
 
 1. **Criar Strings**:
