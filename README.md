@@ -23,7 +23,7 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 
 - 🧘‍♂️ Ruby Koans: Ruby Koans é uma ferramenta de aprendizado interativa que ajuda os desenvolvedores a dominar a linguagem de programação Ruby. Inspirada na filosofia Zen, esta abordagem única combina testes unitários e ensinamentos para orientar os alunos em sua jornada de aprendizado Ruby. Os Koans incentivam a exploração da linguagem e promovem a compreensão profunda, tornando-se uma escolha popular para iniciantes e programadores experientes em busca de aprimorar suas habilidades em Ruby.
 
-## Bibliografia 📚
+## 📚 Bibliografia
 
 A maior parte do conteúdo foi baseado no conteúdo apresentado nos vídeos e materiais disponibilizados ao decorrer do curso. Quanto ao resto do conteúdo que utilizei para desenvolver meu repositório me baseei em vídeos do Youtube sobre os respectivos assuntos, os mesmos estão listados abaixo, recomendo que assistam e se inscrevam os conteúdos são de ótima qualidade.
 
