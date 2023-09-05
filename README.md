@@ -19,7 +19,7 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 
 ## Bibliografia 📚
 
-A maior parte do conteúdo foi baseado no conteúdo apresentado nos vídeos e materiais disponibilizados ao decorrer do curso. Quanto ao resto do conteúdo que utilizei para desenvolver meu repositório me baseei em vídeos do Youtube sobre os respectivos assuntos, os mesmos estão listados abaixo.
+A maior parte do conteúdo foi baseado no conteúdo apresentado nos vídeos e materiais disponibilizados ao decorrer do curso. Quanto ao resto do conteúdo que utilizei para desenvolver meu repositório me baseei em vídeos do Youtube sobre os respectivos assuntos, os mesmos estão listados abaixo, recomendo que assistam e se inscrevam os conteúdos são de ótima qualidade.
 
 **Vídeos**:
 - [curso de ruby puro - onebitcode](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
