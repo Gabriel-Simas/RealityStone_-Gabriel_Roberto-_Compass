@@ -1,3 +1,5 @@
+## 6) times
+
 O método `times` é usado em Ruby para executar um bloco de código um número específico de vezes. É uma maneira conveniente de realizar repetições quando você sabe exatamente quantas vezes deseja que o código seja executado. Aqui está como usar o método `times`:
 
 ```ruby
