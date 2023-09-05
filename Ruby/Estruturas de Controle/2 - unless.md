@@ -1,3 +1,5 @@
+## 2) unless
+
 A palavra-chave `unless` é outra estrutura condicional em Ruby que é usada para verificar se uma condição é falsa (false). Ela é um pouco diferente das estruturas `if` e `else`, que verificam se uma condição é verdadeira. O uso do `unless` pode tornar o código mais legível quando você deseja executar um bloco de código apenas quando uma condição é falsa. Aqui está como usar o `unless`:
 
 ```ruby
