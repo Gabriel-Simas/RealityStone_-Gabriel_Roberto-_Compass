@@ -1,3 +1,5 @@
+## 5) while
+
 O loop `while` é usado em Ruby para executar um bloco de código repetidamente enquanto uma condição especificada for verdadeira. Aqui está como usar o loop `while`:
 
 ```ruby
