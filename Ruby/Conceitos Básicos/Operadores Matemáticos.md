@@ -7,4 +7,4 @@ Os operadores matemáticos em Ruby funcionam de maneira semelhante aos operadore
 5. **Módulo (%)**: Retorna o resto da divisão entre dois valores.
 6. **Potenciação (** ou *)**: Calcula o valor de um número elevado a uma potência.
 
-Por exemplo, para calcular a raiz quadrada de um número, você pode usar o método ‘Math.sqrt( )’.
+Por exemplo, para calcular a raiz quadrada de um número, você pode usar o método `Math.sqrt( )`.
