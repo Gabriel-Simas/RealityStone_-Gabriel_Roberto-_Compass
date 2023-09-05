@@ -1,3 +1,5 @@
+## 3) case
+
 A estrutura de controle `case` é usada em Ruby para avaliar uma expressão e executar diferentes blocos de código com base no valor dessa expressão. É uma alternativa ao aninhamento excessivo de várias estruturas `if` e `elsif` quando você precisa verificar uma expressão em relação a múltiplos valores possíveis. Aqui está como usar o `case`:
 
 ```ruby
