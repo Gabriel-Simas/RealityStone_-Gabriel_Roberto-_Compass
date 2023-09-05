@@ -1,3 +1,5 @@
+## 2) Tipos de Dados (2/2)
+
 Agora vamos para a prática, abrindo o terminal, para podermos praticar use o comando “irb” para habilitar a interação com o ruby no nosso terminal, assim nós podemos praticar um pouco esse conceito de tipos de dados.
 
 Primeiro teste que podemos fazer é criar algumas variáveis, basicamente para isso você digita o comando dessa forma:
