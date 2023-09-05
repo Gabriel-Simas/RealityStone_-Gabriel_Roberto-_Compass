@@ -12,8 +12,8 @@
 
 7° Após isso ele vai te perguntar novamente e você aperta enter.
 
-8° Para verificar se tudo correu bem, você pode realizar um teste digitando o seguinte comando em seu terminal “ruby -v”, caso ele responda a versão está tudo correto.
+8° Para verificar se tudo correu bem, você pode realizar um teste digitando o seguinte comando em seu terminal `ruby -v`, caso ele responda a versão está tudo correto.
 
-9° Você também pode conferir as gem’s com o comando “gem list”.
+9° Você também pode conferir as gem’s com o comando `gem list`.
 
-10° Quanto ao irb você pode conferir com o comando “irb” e enter, dessa forma você entra no shell interativo do Ruby.
+10° Quanto ao irb você pode conferir com o comando `irb` e enter, dessa forma você entra no shell interativo do Ruby.
