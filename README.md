@@ -15,7 +15,13 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 
 ## 🛠️ Ferramentas Empregadas
 
+- 📚 Git: Git é um sistema de controle de versão amplamente utilizado na programação e desenvolvimento de software. É apreciado por sua eficiência, flexibilidade e capacidade de rastrear as alterações no código-fonte ao longo do tempo. Desenvolvido por Linus Torvalds, o criador do Linux, o Git se tornou uma ferramenta indispensável para equipes de desenvolvimento de software e indivíduos. Ele permite que os desenvolvedores colaborem de forma eficaz, rastreiem o histórico de alterações, revertam para versões anteriores e gerenciem projetos de software de maneira transparente. O Git é uma escolha fundamental para o controle de versão de código-fonte em uma ampla variedade de projetos de desenvolvimento.
+
+- 🌐 GitHub: GitHub é uma plataforma de hospedagem de código-fonte baseada na web que oferece serviços de controle de versão, colaboração e gerenciamento de projetos para desenvolvedores de software e equipes. Fundado em 2008, o GitHub se tornou um dos principais pontos de encontro da comunidade de desenvolvedores em todo o mundo.
+
 - 💎 **Ruby**: Ruby é uma linguagem de programação dinâmica e de propósito geral. É conhecida por sua simplicidade e legibilidade. Muitos desenvolvedores a utilizam para construir aplicativos web, scripts e automatizar tarefas.
+
+- 🧘‍♂️ Ruby Koans: Ruby Koans é uma ferramenta de aprendizado interativa que ajuda os desenvolvedores a dominar a linguagem de programação Ruby. Inspirada na filosofia Zen, esta abordagem única combina testes unitários e ensinamentos para orientar os alunos em sua jornada de aprendizado Ruby. Os Koans incentivam a exploração da linguagem e promovem a compreensão profunda, tornando-se uma escolha popular para iniciantes e programadores experientes em busca de aprimorar suas habilidades em Ruby.
 
 ## Bibliografia 📚
 
