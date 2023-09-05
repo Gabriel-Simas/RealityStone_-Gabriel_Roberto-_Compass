@@ -1,3 +1,5 @@
+## 4) for
+
 O loop `for` em Ruby é usado para iterar sobre uma coleção de elementos, como um intervalo de números ou uma lista de itens. No entanto, é menos comum em Ruby do que em algumas outras linguagens, como Python. A preferência em Ruby geralmente é dada aos métodos de iteração de coleções, como `each`, que oferecem uma abordagem mais idiomática para lidar com iterações.
 
 De qualquer forma, aqui está como usar o loop `for` em Ruby:
