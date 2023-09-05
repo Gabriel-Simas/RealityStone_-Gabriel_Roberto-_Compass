@@ -16,3 +16,12 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 ## 🛠️ Ferramentas Empregadas
 
 - 💎 **Ruby**: Ruby é uma linguagem de programação dinâmica e de propósito geral. É conhecida por sua simplicidade e legibilidade. Muitos desenvolvedores a utilizam para construir aplicativos web, scripts e automatizar tarefas.
+
+## Bibliografia 📚
+
+A maior parte do conteúdo foi baseado no conteúdo apresentado nos vídeos e materiais disponibilizados ao decorrer do curso. Quanto ao resto do conteúdo que utilizei para desenvolver meu repositório me baseei em vídeos do Youtube sobre os respectivos assuntos, os mesmos estão listados abaixo.
+
+**Vídeos**:
+- [curso de ruby puro - onebitcode](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
+- [curso de git e github 2023 - dev aprender | jhonatan de souza](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+- [como instalar e testar a linguagem ruby - bóson treinamentos](https://www.youtube.com/watch?v=XSxrwc6ds28&t=396s)
