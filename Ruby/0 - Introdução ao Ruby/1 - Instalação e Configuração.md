@@ -1,3 +1,5 @@
+## 1) Instalação e Configuração
+
 1° Vá até o site https://rubyinstaller.org/downloads/
 
 2° Selecione a versão mais recente conforme o seu sistema operacional.
